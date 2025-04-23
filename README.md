@@ -1,0 +1,1 @@
+"A customer loan prediction system using Python and machine learning algorithms to analyze applicant data and predict loan approval outcomes. Utilized pandas, scikit-learn, and data visualization for model training and insights."
